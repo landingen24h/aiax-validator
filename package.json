@@ -4,7 +4,7 @@
   "description": "Validate and score a site's AIAX manifest (0.1) and its sections.",
   "main": "index.js",
   "scripts": {
-    "test": "node --test test/"
+    "test": "node --test test/*.test.js"
   },
   "keywords": [
     "aiax",
