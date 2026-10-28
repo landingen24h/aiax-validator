@@ -1,5 +1,7 @@
 # aiax-validate
 
+[![CI](https://github.com/landingen24h/aiax-validator/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/aiax-validator/actions/workflows/ci.yml)
+
 Validate and score any site's AIAX manifest (version 0.1) and its sections, and explain every failure in plain words.
 
     npx aiax-validate <url> [--json] [--fixtures <dir>]
